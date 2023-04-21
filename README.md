@@ -23,7 +23,7 @@
 #### Check _"Install suggested plugins"_
 
 # 4. Global Jenkins configure
-<img src="https://github.com/master/assets/setup_jdk.png?raw=true" width="900">
+<img src="https://github.com/SergeevKst/jenkins-first-job/blob/master/assets/setup_jdk.png?raw=true" width="900">
 <img src="https://github.com/master/assets/setup_maven.png?raw=true" width="900">
 
 # 5. Create job для Jenkins
