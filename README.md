@@ -12,7 +12,7 @@
 
 ## General info
 
-# 1. Установка
+# 1. Set up
 > sudo install jenkins
 
 # 2. Write in credentials
